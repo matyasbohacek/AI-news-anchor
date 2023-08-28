@@ -2,13 +2,12 @@
 
 <p align="center">
   <img src="image.png" title="hover text">
+</p>
 
-  <video width="320" height="240" controls>
-    <source src="video.mp4" type="video/mp4">
-  </video>
+<video src='video.mp4' width=180/>
 
   <audio controls>
     <source src="audio.mp3" type="audio/mpeg">
   </audio>
 
-</p>
+
