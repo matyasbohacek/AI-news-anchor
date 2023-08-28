@@ -1,8 +1,7 @@
 # AI News Anchor
 
-<p align="center">
-  <img src="image.png" title="hover text">
-</p>
+
+<img src="image.png" title="hover text">
 
 <video src='video.mp4' width=180/>
 
