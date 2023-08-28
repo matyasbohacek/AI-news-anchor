@@ -4,8 +4,6 @@
   <img src='image.png' width="400">
 </p>
 
-<video src='https://github-production-user-asset-6210df.s3.amazonaws.com/37394704/263836012-e640440d-4c94-4e33-802e-111e6664ffcc.mov' width=180></video>
-
-
-https://github.com/matyasbohacek/AI-news-anchor/assets/37394704/e640440d-4c94-4e33-802e-111e6664ffcc
-
+<div align="center">
+<video src='https://data.matsworld.io/research/audio.mp4'></video>
+</div>
