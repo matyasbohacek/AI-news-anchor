@@ -2,7 +2,7 @@
 
 ### Image
 
-<img src='image.png' width="400">
+<img src='image.png' width="300">
 
 ### Audio
 
