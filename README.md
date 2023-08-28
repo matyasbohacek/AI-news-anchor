@@ -3,6 +3,8 @@
 
 <img src="image.png" title="hover text">
 
+![](video.mp4)
+
 <video src='video.mp4' width=180/>
 
   <audio controls>
