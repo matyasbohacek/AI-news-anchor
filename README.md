@@ -6,6 +6,9 @@
 
 ### Audio
 
+> [!IMPORTANT]
+> By default, GitHub mutes this audio -- be sure to unmute it.
+
 https://github.com/matyasbohacek/AI-news-anchor/assets/37394704/4a979e05-20cd-40c1-9ee9-06df0df2e50f
 
 ### Video
