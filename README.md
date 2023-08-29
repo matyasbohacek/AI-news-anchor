@@ -16,4 +16,4 @@ https://github.com/matyasbohacek/AI-news-anchor/assets/37394704/4a979e05-20cd-40
 > [!IMPORTANT]
 > By default, GitHub mutes this video — be sure to unmute it first.
 
-https://github.com/matyasbohacek/AI-news-anchor/assets/37394704/e5a31827-3e09-4bcd-91ab-76759eb55bfd
+https://github.com/matyasbohacek/AI-news-anchor/assets/37394704/4313d066-ebd8-45c0-ac25-7cc49e64d5d5
